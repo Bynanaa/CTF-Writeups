@@ -60,3 +60,13 @@ I used the Izotope RX 10 audio editor to solve this task, but you can easily fin
 
 <br>
 Thanks for reading, I hope you found this walkthrough interesting, useful and learned something new!
+
+<br>
+### Useful links
+<br>
+
+ * [Simple Help: How to Hide a .rar File Within an Image File](https://www.simplehelp.net/2008/12/04/how-to-hide-rar-files-within-picture-files/ " Simple Help: How to Hide a .rar File Within an Image File")
+ * [Hacktrix: How To Hide Your Files And Folders Inside Images](https://www.hacktrix.com/how-to-hide-your-files-and-folders-inside-images "How To Hide Your Files And Folders Inside Images")
+ * [Spectral analyzer of Signals](https://www.dcode.fr/spectral-analysis "Spectral analyzer of Signals")
+ * [Izotope: Understanding Spectrograms](https://www.izotope.com/en/learn/understanding-spectrograms.html "Izotope: Understanding Spectrograms")
+ * [Christian Espinosa on Youtube: Hide a Message in an Audio File](https://www.youtube.com/watch?v=1EqCQrVEEVs " Steganography: Hide a Message in an Audio File Christian Espinosa")
