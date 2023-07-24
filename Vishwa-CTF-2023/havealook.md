@@ -74,3 +74,4 @@ Thanks for reading, I hope you found this walkthrough interesting, useful and le
  * [Spectral analyzer of Signals](https://www.dcode.fr/spectral-analysis "Spectral analyzer of Signals")
  * [Izotope: Understanding Spectrograms](https://www.izotope.com/en/learn/understanding-spectrograms.html "Izotope: Understanding Spectrograms")
  * [Christian Espinosa on Youtube: Hide a Message in an Audio File](https://www.youtube.com/watch?v=1EqCQrVEEVs " Steganography: Hide a Message in an Audio File Christian Espinosa")
+ * [Another cool writeup from VishwaCTF](https://dev.to/lambdamamba/ctf-writeup-vishwactf-2022-3me5)
