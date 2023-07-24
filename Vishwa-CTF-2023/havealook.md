@@ -44,7 +44,9 @@ When we combine these two types of visualisation, we can literally see three asp
 ![](https://i.imgur.com/w9jlG44.png)
 
 On the horizontal axis is a timeline. On the vertical axis is the frequency range, from 0 Hertz at the bottom to 22000 Hertz at the top. The colour represents the volume: from absolute silence in black to maximum volume in white.
+
 <br>
+
 A spectrogram turns an audio file into a canvas on which you can literally draw in specialised audio editors. When we open the same audio file in the spectrogram editor, we see a flag.
 
 ![](https://i.imgur.com/MDWVjsi.png)
