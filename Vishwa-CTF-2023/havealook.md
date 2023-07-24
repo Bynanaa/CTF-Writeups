@@ -62,7 +62,9 @@ I used the Izotope RX 10 audio editor to solve this task, but you can easily fin
 Thanks for reading, I hope you found this walkthrough interesting, useful and learned something new!
 
 <br>
+
 ### Useful links
+
 <br>
 
  * [Simple Help: How to Hide a .rar File Within an Image File](https://www.simplehelp.net/2008/12/04/how-to-hide-rar-files-within-picture-files/ " Simple Help: How to Hide a .rar File Within an Image File")
