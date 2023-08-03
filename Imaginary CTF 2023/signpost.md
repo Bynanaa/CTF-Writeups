@@ -61,11 +61,15 @@ I watched a couple of videos, only to become even more demotivated. I opened ano
 Below is the video in which the pointer appears. Click on it to play.
 
 ![enter image description here](https://github.com/Bynanaa/CTF-Writeups/blob/main/Imaginary%20CTF%202023/firefox_4BB4MlI0Cr.gif)
+
+
+<br>
+
 I quickly find the exact location and enter the coordinates of the flag. I get a hundred points, earned with blood and sweat, and go to bed with a clear conscience.
 
 
 ![](https://i.imgur.com/JVOm22X.png)
-
+<br>
 
 What lessons can we learn from this task? Sometimes the simplest way is the one that works. 
 
