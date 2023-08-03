@@ -56,7 +56,11 @@ I couldn't have been wrong, could I? My last hope was YouTube: I hoped to find v
 
 I watched a couple of videos, only to become even more demotivated. I opened another video without much hope, and just as I was about to give up, a signpost appeared around the corner.
 
-![enter image description here](https://github.com/Bynanaa/CTF-Writeups/blob/main/Imaginary%20CTF%202023/firefox_4BB4MlI0Cr.gif?raw=true)
+<br>
+
+Below is the video in which the pointer appears. Click on it to play.
+
+![enter image description here](https://github.com/Bynanaa/CTF-Writeups/blob/main/Imaginary%20CTF%202023/firefox_4BB4MlI0Cr.gif)
 I quickly find the exact location and enter the coordinates of the flag. I get a hundred points, earned with blood and sweat, and go to bed with a clear conscience.
 
 
